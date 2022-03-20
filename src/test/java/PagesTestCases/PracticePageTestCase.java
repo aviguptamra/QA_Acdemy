@@ -55,6 +55,7 @@ public class PracticePageTestCase extends TestBase {
 		*/
 		System.out.println("SDET-2");
 		
+
 		System.out.println("SDET-3");
 	}
 	
