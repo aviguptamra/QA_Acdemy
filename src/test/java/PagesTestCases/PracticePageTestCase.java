@@ -53,6 +53,7 @@ public class PracticePageTestCase extends TestBase {
 		/*1.If webelement(webobject is a public then you can access in testcase class)
 		  2.If webelement(webobject is a private then you cannot access in testcase class so, that is called achive to Encapsulation)
 		*/
+		System.out.println("SDET-2");
 	}
 	
 	@Test(priority = 2)
