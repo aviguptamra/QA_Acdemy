@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="41402" started-at="2021-03-06T18:48:51 IST" finished-at="2021-03-06T18:49:32 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="41402" started-at="2021-03-06T18:48:51 IST" finished-at="2021-03-06T18:49:32 IST">
+      <class name="PagesTestCases.PracticePageTestCase">
+        <test-method status="PASS" signature="setup()[pri:0, instance:PagesTestCases.PracticePageTestCase@6379eb]" name="setup" is-config="true" duration-ms="9002" started-at="2021-03-06T18:48:51 IST" finished-at="2021-03-06T18:49:00 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="ClickOnRadiobutton1()[pri:1, instance:PagesTestCases.PracticePageTestCase@6379eb]" name="ClickOnRadiobutton1" duration-ms="261" started-at="2021-03-06T18:49:00 IST" finished-at="2021-03-06T18:49:00 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ClickOnRadiobutton1 -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:PagesTestCases.PracticePageTestCase@6379eb]" name="teardown" is-config="true" duration-ms="821" started-at="2021-03-06T18:49:00 IST" finished-at="2021-03-06T18:49:01 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:PagesTestCases.PracticePageTestCase@6379eb]" name="setup" is-config="true" duration-ms="6194" started-at="2021-03-06T18:49:01 IST" finished-at="2021-03-06T18:49:07 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="SuggessionClassExample()[pri:2, instance:PagesTestCases.PracticePageTestCase@6379eb]" name="SuggessionClassExample" duration-ms="707" started-at="2021-03-06T18:49:07 IST" finished-at="2021-03-06T18:49:08 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SuggessionClassExample -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:PagesTestCases.PracticePageTestCase@6379eb]" name="teardown" is-config="true" duration-ms="801" started-at="2021-03-06T18:49:08 IST" finished-at="2021-03-06T18:49:09 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:PagesTestCases.PracticePageTestCase@6379eb]" name="setup" is-config="true" duration-ms="6166" started-at="2021-03-06T18:49:09 IST" finished-at="2021-03-06T18:49:15 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="Dropdown()[pri:3, instance:PagesTestCases.PracticePageTestCase@6379eb]" name="Dropdown" duration-ms="346" started-at="2021-03-06T18:49:15 IST" finished-at="2021-03-06T18:49:15 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Dropdown -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:PagesTestCases.PracticePageTestCase@6379eb]" name="teardown" is-config="true" duration-ms="822" started-at="2021-03-06T18:49:15 IST" finished-at="2021-03-06T18:49:16 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:PagesTestCases.PracticePageTestCase@6379eb]" name="setup" is-config="true" duration-ms="5970" started-at="2021-03-06T18:49:16 IST" finished-at="2021-03-06T18:49:22 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="Checkbox1()[pri:4, instance:PagesTestCases.PracticePageTestCase@6379eb]" name="Checkbox1" duration-ms="264" started-at="2021-03-06T18:49:22 IST" finished-at="2021-03-06T18:49:22 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Checkbox1 -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:PagesTestCases.PracticePageTestCase@6379eb]" name="teardown" is-config="true" duration-ms="787" started-at="2021-03-06T18:49:22 IST" finished-at="2021-03-06T18:49:23 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:PagesTestCases.PracticePageTestCase@6379eb]" name="setup" is-config="true" duration-ms="6945" started-at="2021-03-06T18:49:23 IST" finished-at="2021-03-06T18:49:30 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="WindowHandling()[pri:5, instance:PagesTestCases.PracticePageTestCase@6379eb]" name="WindowHandling" duration-ms="770" started-at="2021-03-06T18:49:30 IST" finished-at="2021-03-06T18:49:31 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- WindowHandling -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:PagesTestCases.PracticePageTestCase@6379eb]" name="teardown" is-config="true" duration-ms="1513" started-at="2021-03-06T18:49:31 IST" finished-at="2021-03-06T18:49:32 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- PagesTestCases.PracticePageTestCase -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
