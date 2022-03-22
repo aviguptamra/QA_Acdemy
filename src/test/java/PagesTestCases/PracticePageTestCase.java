@@ -57,6 +57,8 @@ public class PracticePageTestCase extends TestBase {
 		
 
 		System.out.println("SDET-3");
+		
+		System.out.println("SDET-4");
 	}
 	
 	@Test(priority = 2)
